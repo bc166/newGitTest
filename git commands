@@ -1,0 +1,17 @@
+git clone https://github.com/bc166/newGitTest.git
+
+git status
+
+# new file
+git add <filename>
+
+git commit -m "new file added index.html"
+
+git push
+
+# with comment
+git commit -a 
+git push
+
+#get latest commands
+git pull
